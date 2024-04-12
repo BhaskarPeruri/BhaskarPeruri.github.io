@@ -1,17 +1,23 @@
 title: Satya Bhaskar Peruri
 author: Satya Bhaskar Peruri
 url: https://BhaskarPeruri.github.io # root address of the site
-description: > # description of the site (multiple lines allowed)
-  Hello, my name is Gangamma.
+description: > # description of  you  (multiple lines allowed)
+  I am a highly motivated individual with a strong background in computer science, blockchain development and security. 
+  I've contributed to various projects, including decentralized applications and smart contracts. 
+  As a blockchain developer intern at KryptoMerch , I've honed my skills in languages such as Solidity, Reactjs, JavaScript, and Pact,
+  and I played a vital role in maintaining stability and security in NFT protocols.
+  Additionally, I've participated in blockchain competitions such as Ethernaut CTF, enhancing my problem-solving abilities and demonstrated various vulnerabilities. 
+  I am committed to continuous learning, evident in my certifications in NFT deployment and advanced Solidity. Outside of work, I actively engage in smart contract auditing contests and CTF challenges to further sharpen my skills.
+  With a passion for innovation and a dedication to excellence, I am eager to take on new challenges and make meaningful contributions in the ever-evolving field of blockchain technology.
 permalink: /:slug
-favicon: "./logo.png" # relative path to site's favicon
+favicon: "./trisulam.png" # relative path to site's favicon
 
 twitter:
-  username: abhinav # update or delete this
+  username: bhaskar # update or delete this
   card: summary_large_image
 
 #theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
-remote_theme: abhinavs/moonwalk
+remote_theme: bhaskars/moonwalk
 
 theme_config:
   appearance: "dark" # can be "light", "dark" or "auto"
