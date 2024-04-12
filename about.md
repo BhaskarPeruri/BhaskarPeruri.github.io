@@ -11,7 +11,7 @@ I aim to leverage my expertise in engineering and programming to contribute to o
 
 ## Education
 
-- Bachelor of Technology in Computer Science from Rajiv Gandhi University of Knowledge and Technologies with a remarkable CGPA of 8.7(upto 3rd year).
+- Bachelor of Technology in Computer Science from Rajiv Gandhi University of Knowledge and Technologies with a remarkable CGPA of 8.7 (upto 3rd year).
 
 - Pre-University Course from the same university with a CGPA of 9.3.
 
@@ -31,7 +31,7 @@ I aim to leverage my expertise in engineering and programming to contribute to o
 
 - Developed strong problem-solving skills by analyzing complex blockchain systems and mitigating vulnerabilities.
 
-- Contributed to the coding, testing, and deployment of software updates and enhancements.
+* Demonstrated the ability to think critically and creatively to overcome challenges inherent in blockchain security.
 
 ## Projects:
 
@@ -39,7 +39,7 @@ I aim to leverage my expertise in engineering and programming to contribute to o
 
 - Demonstrated proficiency in **Solidity, JavaScript, Reactjs, Web3.js, Ether.js, Hardhat, HTML, and CSS** through these projects.
 
-## Achievements
+## Achievements:
 
 - Secured 32<span style="vertical-align:super">nd</span> position in the DApp World Solidity contest.
 

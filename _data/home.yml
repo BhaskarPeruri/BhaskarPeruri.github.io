@@ -12,10 +12,17 @@ project_entries:
   - title: DAO dapp
     url: https://github.com/BhaskarPeruri/DAO_DApp
     desc: Implemented functionalities for investor contributions, share management,the creation and execution of proposals through a voting mechanism.
+    highlight: new
 
   - title: Decentralized Wallet
     url: https://github.com/BhaskarPeruri/Decentralized-Wallet
     desc: DWallet serves as a decentralized wallet designed for the secure transfer of Ethereum (ETH) from one address to another address.
+    highlight: new
+
+  - title: ERC20 Fuzzing
+    url: https://github.com/BhaskarPeruri/ERC20Fuzzing
+    desc: Demonstrated in utilizing fuzzing techniques to test ERC20 smart contracts for vulnerabilities and bugs.
+    highlight: new
 
   - title: Smart Contract Voting
     url: https://github.com/BhaskarPeruri/Smart-Contract-Voting-Project
@@ -24,12 +31,10 @@ project_entries:
   - title: Twitter Clone
     url: https://github.com/BhaskarPeruri/TwitterContract
     desc: The contract includes access control checks, ensuring that only authorized users or operators can perform certain actions.
-    highlight: new
 
   - title: Decentralized Market Place
     url: https://github.com/BhaskarPeruri/Decentralized_MarketPlace
     desc: allows buyers and sellers of securities to deal directly with each other instead of meeting in a traditional exchange.
-    highlight: new
 
   - title: Auction Smart Contract
     url: https://github.com/BhaskarPeruri/Auction_SmartContract
