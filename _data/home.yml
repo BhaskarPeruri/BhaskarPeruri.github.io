@@ -35,23 +35,23 @@ project_entries:
     url: https://github.com/BhaskarPeruri/Auction_SmartContract
     desc: This solidity smart contract represents a basic auction where an auctioneer can create items, and participants can place bids on those items.
 
-# old_project_entries:
-#   - title: Soopr
-#     url: https://www.soopr.co
-#     desc: Delight your readers - add beautiful share and like buttons easily to your websites
-#     highlight: NEW
+old_project_entries:
+  - title: Soopr
+    url: https://www.soopr.co
+    desc: Delight your readers - add beautiful share and like buttons easily to your websites
+    highlight: NEW
 
-#   - title: Cookie
-#     url: https://github.com/abhinavs/cookie
-#     desc: An open source landing website with supporting pages and integrated blog
+  - title: Cookie
+    url: https://github.com/abhinavs/cookie
+    desc: An open source landing website with supporting pages and integrated blog
 
-#   - title: Moonwalk
-#     url: https://github.com/abhinavs/moonwalk
-#     desc: A fast and minimalist Jekyll blog theme with clean dark mode
+  - title: Moonwalk
+    url: https://github.com/abhinavs/moonwalk
+    desc: A fast and minimalist Jekyll blog theme with clean dark mode
 
-#   - title: Humangous
-#     url: https://www.humangous.co
-#     desc: The better people know you, the better they collaborate
+  - title: Humangous
+    url: https://www.humangous.co
+    desc: The better people know you, the better they collaborate
 
 footer_entries:
   - title: Bhaskar's homepage
@@ -87,10 +87,10 @@ misc_entries:
     url: false
     entries:
       - title: on Github
-        url: https://bhaskarperuri.github.io/
+        url: https://github.com/abhinavs/moonwalk
 
-      - title: originally built for Bhaskar's homepage
-        url: https://bhaskarperuri.github.io/
+      - title: originally built for abhinav's homepage
+        url: https://www.old.co
 
       - title: this list is scalable and can be nested
         url: false
