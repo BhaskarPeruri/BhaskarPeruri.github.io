@@ -10,14 +10,14 @@ description: > # description of  you  (multiple lines allowed)
   I am committed to continuous learning, evident in my certifications in NFT deployment and advanced Solidity. Outside of work, I actively engage in smart contract auditing contests and CTF challenges to further sharpen my skills.
   With a passion for innovation and a dedication to excellence, I am eager to take on new challenges and make meaningful contributions in the ever-evolving field of blockchain technology.
 permalink: /:slug
-favicon: "./trisulam.png" # relative path to site's favicon
+favicon: "./logo.png" # relative path to site's favicon
 
 twitter:
   username: bhaskar # update or delete this
   card: summary_large_image
 
 #theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
-remote_theme: bhaskars/moonwalk
+remote_theme: abhinavs/moonwalk
 
 theme_config:
   appearance: "dark" # can be "light", "dark" or "auto"
