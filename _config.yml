@@ -2,13 +2,11 @@ title: Satya Bhaskar
 author: Satya Bhaskar
 url: https://BhaskarPeruri.github.io # root address of the site
 description: > # description of  you  (multiple lines allowed)
-  I am a highly motivated individual with a strong background in computer science, blockchain development and security. 
-  I've contributed to various projects, including decentralized applications and smart contracts. 
-  As a blockchain developer intern at KryptoMerch , I've honed my skills in languages such as Solidity, Reactjs, JavaScript, and Pact,
-  and I played a vital role in maintaining stability and security in NFT protocols.
-  Additionally, I've participated in blockchain competitions such as web3 CTFs, enhancing my problem-solving abilities and demonstrated various vulnerabilities. 
-  I am committed to continuous learning, evident in my certifications in NFT deployment and advanced Solidity. Outside of work, I actively engage in smart contract auditing contests and CTF challenges to further sharpen my skills.
-  With a passion for innovation and a dedication to excellence, I am eager to take on new challenges and make meaningful contributions in the ever-evolving field of blockchain technology.
+ As a highly motivated individual with a robust background in computer science, blockchain development, and security, I have made significant contributions to various projects, including decentralized applications and smart contracts. 
+ During my tenure as a Blockchain Developer Intern at KryptoMerch, I refined my skills in languages such as Solidity, React.js, JavaScript, and Pact. 
+ I played a crucial role in maintaining the stability and security of NFT protocols.
+ Additionally, I actively participate in smart contract auditing contests and web3 Capture the Flag (CTF) challenges, which has sharpened my skills in identifying and addressing security issues in blockchain technology.
+ My passion for innovation and commitment to excellence drive me to continuously seek out new challenges and make meaningful contributions in the ever-evolving field of blockchain technology.
 permalink: /:slug
 favicon: "./logo.png" # relative path to site's favicon
 

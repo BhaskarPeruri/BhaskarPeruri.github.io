@@ -7,7 +7,7 @@ title: "PuppyRaffle Audit from  Codehawks"
 
 Puppy Rafle is a protocol dedicated to raffling off puppy NFTs with variying rarities. A portion of entrance fees go to the winner, and a fee is taken by another address decided by the protocol owner. 
 
-[Github repo of the protocol](https://github.com/Cyfrin/4-puppy-raffle-audit)
+[Github repo of the audited protocol](https://github.com/Cyfrin/4-puppy-raffle-audit)
 
 ## Roles
 
@@ -700,4 +700,4 @@ It's best to follow CEI (Checks, Effects, Interactions)
 **Recommended Mitigation:** Skip zero addresses when iterating the `players` array in the `getActivePlayerIndex`. Do note that this change would mean that the zero address can _never_ be an active player. Therefore, it would be best if you also prevented the zero address from being registered as a valid player in the `enterRaffle` function.
 
 
-### For more Info, please refer to this [Github](https://github.com/BhaskarPeruri/PuppyRaffle_Audit)
+### For more info, please refer to this [Github](https://github.com/BhaskarPeruri/PuppyRaffle_Audit)

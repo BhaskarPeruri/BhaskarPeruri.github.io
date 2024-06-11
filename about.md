@@ -5,21 +5,21 @@ title: About
 
 ## Profile
 
-I am a dynamic and skilled engineer with a strong foundation in computer science and a passion for programming.
+Welcome to my profile, My self Satya Bhaskar currently pursuing Final year Computer Science Engineering in RGUKT-Nuzvid.
 
 I aim to leverage my expertise in engineering and programming to contribute to organizational growth while continuously expanding my knowledge through exploration and innovation.
 
 ## Education
 
-- Bachelor of Technology in Computer Science from Rajiv Gandhi University of Knowledge and Technologies with a remarkable CGPA of 8.7 (upto 3rd year).
+- Bachelor of Technology in Computer Science from Rajiv Gandhi University of Knowledge and Technologies with a  CGPA of 8.7 (upto 3rd year).
 
-- Pre-University Course from the same university with a CGPA of 9.3.
+- Pre-University Course from Rajiv Gandhi University of Knowledge and Technologies with a CGPA of 9.3.
 
 - Secondary Education from Zilla Parishad High School with a CGPA of 10.
 
 ## Experience:
 
-#### KryptoMerch (Blockchain Developer Intern):
+#### Blockchain Developer Intern at [Kryptomerch](https://kryptomerch.io/) (Feb 2024 - April 2024):
 
 - Maintained stability and functionality of KryptoMerch’s NFT launchpad, marketplace, and merchandising protocol.
 
@@ -27,7 +27,7 @@ I aim to leverage my expertise in engineering and programming to contribute to o
 
 - Collaborated with cross-functional teams to support project objectives.
 
-#### Ethernaut CTF (CTF Player):
+#### CTF Player (Nov 2023 - Present):
 
 - Developed strong problem-solving skills by analyzing complex blockchain systems and mitigating vulnerabilities.
 
@@ -37,7 +37,7 @@ I aim to leverage my expertise in engineering and programming to contribute to o
 
 - Developed various decentralized applications including a Decentralized Autonomous Organization, Decentralized Wallet, Decentralized Voting System, Twitter Clone, and Decentralized Marketplace.
 
-- Demonstrated proficiency in **Solidity, JavaScript, Reactjs, Web3.js, Ether.js, Hardhat, HTML, and CSS** through these projects.
+- Demonstrated proficiency in **Solidity, JavaScript, Reactjs, Foundry, Hardhat, Web3.js, Ether.js, Hardhat, HTML, and CSS** through these projects.
 
 ## Achievements:
 
@@ -53,6 +53,6 @@ I aim to leverage my expertise in engineering and programming to contribute to o
 
 - Actively participating in smart contract auditing contests and solving CTF challenges.
 
-- Engage in reading audit reports, writeups, and blogs related to this field.
+- Engage in reading audit reports, writeups, and blogs related to blockchain security.
 
 #### With a proven track record in blockchain development, a strong academic background, and a dedication to continuous learning, I am primed to excel in a challenging role within the blockchain industry.

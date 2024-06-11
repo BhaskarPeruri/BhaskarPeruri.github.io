@@ -7,7 +7,7 @@ title: "PasswordStore Audit from  Codehawks"
 # Protocol Summary 
 PasswordStore is a protocol dedicated to storage and retrieval of a user's passwords. The protocol is designed to be used by a single user, and is not designed to be used by multiple users. Only the owner should be able to set and access this password.
 
-[Github repo of the protocol](https://github.com/Cyfrin/3-passwordstore-audit/tree/onboarded)
+[Github repo of the audited protocol](https://github.com/Cyfrin/3-passwordstore-audit/tree/onboarded)
 ## Roles
 
 - Owner: The user who can set the password and read the password.
@@ -22,8 +22,8 @@ PasswordStore is a protocol dedicated to storage and retrieval of a user's passw
 | High     | 2                      |
 | Medium   | 0                      |
 | Low      | 0                      |
-| Info     | 1                     |
-| Total    | 3                     |
+| Info     | 1                      |
+| Total    | 3                      |
 
 # Findings
 
@@ -144,4 +144,4 @@ if (msg.sender != s_owner) {
 -      * @param newPassword The new password to set
 ```
 
-### For more Info, please refer to this [Github ](https://github.com/BhaskarPeruri/PasswordStore_Audit)
+### For more info, please refer to this [Github ](https://github.com/BhaskarPeruri/PasswordStore_Audit)
