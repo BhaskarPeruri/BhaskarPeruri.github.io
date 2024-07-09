@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ThunderLoan Protocol Audit from  Codehawks"
+title: "ThunderLoan Protocol Audit "
 ---
 
 # Protocol Summary 

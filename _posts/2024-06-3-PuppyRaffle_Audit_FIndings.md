@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PuppyRaffle Protocol Audit from  Codehawks"
+title: "PuppyRaffle Protocol Audit "
 ---
 
 # Protocol Summary 

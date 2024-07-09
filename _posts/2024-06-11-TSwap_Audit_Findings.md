@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TSwap Protocol Audit from  Codehawks"
+title: "TSwap Protocol Audit"
 ---
 
 # Protocol Summary 

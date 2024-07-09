@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PasswordStore Protocol Audit from  Codehawks"
+title: "PasswordStore Protocol Audit"
 ---
 
 

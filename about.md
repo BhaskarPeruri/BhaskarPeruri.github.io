@@ -19,7 +19,7 @@ I aim to leverage my expertise in engineering and programming to contribute to o
 
 ## Experience:
 
-#### Blockchain Developer Intern at [Kryptomerch](https://kryptomerch.io/) (Feb 2024 - April 2024):
+#### Blockchain Developer Intern at [Kryptomerch](https://kryptomerch.io/) (Feb 2024 - March 2024):
 
 - Maintained stability and functionality of KryptoMerch’s NFT launchpad, marketplace, and merchandising protocol.
 
