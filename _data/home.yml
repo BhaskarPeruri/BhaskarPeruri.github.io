@@ -1,12 +1,27 @@
 navbar_entries:
-  - title: About
+  - title: "<i class='fas fa-user'></i> About"
     url: about
 
-  - title: Blog
+  - title: "<i class='fas fa-pencil-alt'></i> Blog"
     url: blog
+  
+  - title: "<i class='fab fa-twitter'></i> Twitter"
+    url: https://x.com/0xPSB
 
-  - title: Socials
-    url: https://linktr.ee/SatyaBhaskarPeruri?utm_source=linktree_profile_share
+  - title: "<i class='fab fa-github'></i> GitHub"
+    url: https://github.com/BhaskarPeruri
+
+  - title: "<i class='fab fa-linkedin'></i> LinkedIn"
+    url: https://www.linkedin.com/in/satya-bhaskar-b84521242
+
+  # - title: Twitter
+  #   url: https://x.com/0xPSB
+
+  # - title: Github
+  #   url: https://github.com/BhaskarPeruri
+
+  # - title: Linkedin
+  #   url: https://www.linkedin.com/in/satya-bhaskar-b84521242/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 project_entries:
   - title: DAO dapp
@@ -59,49 +74,51 @@ project_entries:
 #     desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: Bhaskar's homepage
-    url: https://bhaskarperuri.github.io/
-
-  - title: Twitter
-    url: https://x.com/PeruriBhaskar?t=yy79Yl8BQPnTeUBaLd1CyQ&s=09
-
-  - title: Github
-    url: https://github.com/BhaskarPeruri
-
-  - title: Linkedin
-    url: https://www.linkedin.com/in/satya-bhaskar-b84521242?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-
-  - title: Feed
-    url: feed.xml
-
-misc_entries:
-  - title: this is an example vertical list
+  - title: "<span class='footer-thank-you'>Thank You ❤️</span>"
     url: false
+  # - title: Bhaskar's homepage
+  #   url: https://bhaskarperuri.github.io/
 
-  - title: you can show or hide using a boolean flag in _config.yml
-    url: false
+  # - title: Twitter
+  #   url: https://x.com/0xPSB
 
-  - title: and you can add data in _data/home.yml
-    url: false
+  # - title: Github
+  #   url: https://github.com/BhaskarPeruri
 
-  - title: Blog posts
-    post_list: true
-    url: false
+  # - title: Linkedin
+  #   url: https://www.linkedin.com/in/satya-bhaskar-b84521242?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
-  - title: moonwalk on the Internet
-    url: false
-    entries:
-      - title: on Github
-        url: https://github.com/abhinavs/moonwalk
+#   - title: Feed
+#     url: feed.xml
 
-      - title: originally built for abhinav's homepage
-        url: https://www.old.co
+# misc_entries:
+#   - title: this is an example vertical list
+#     url: false
 
-      - title: this list is scalable and can be nested
-        url: false
-        entries:
-          - title: this is nested inside a nested list
-            url: false
+#   - title: you can show or hide using a boolean flag in _config.yml
+#     url: false
 
-          - title: it is easy to use, see _data/home.yml to see how to configure it.
-            url: false
+#   - title: and you can add data in _data/home.yml
+#     url: false
+
+#   - title: Blog posts
+#     post_list: true
+#     url: false
+
+#   - title: moonwalk on the Internet
+#     url: false
+#     entries:
+#       - title: on Github
+#         url: https://github.com/abhinavs/moonwalk
+
+#       - title: originally built for abhinav's homepage
+#         url: https://www.old.co
+
+#       - title: this list is scalable and can be nested
+#         url: false
+#         entries:
+#           - title: this is nested inside a nested list
+#             url: false
+
+#           - title: it is easy to use, see _data/home.yml to see how to configure it.
+#             url: false

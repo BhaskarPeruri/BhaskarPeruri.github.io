@@ -4,3 +4,25 @@
 @import "moonwalk";
 @import "list";
 @import "syntax";
+
+footer {
+    display: flex; /* Makes the footer a flex container */
+    justify-content: center; /* Horizontally centers child elements */
+    align-items: center; /* Vertically centers child elements (if needed) */
+    flex-wrap: wrap; /* Ensures proper wrapping for multiple lines */
+    text-align: center; /* Aligns inline content inside */
+    margin-top: 20px; /* Optional: Adds space above the footer */
+  }
+.navbar i {
+    margin-right: 8px;
+  }
+  .footer-thank-you {
+    display: block; /* Makes the span behave like a block element */
+    text-align: center; /* Centers the text horizontally */
+    font-size: 16px; /* Adjust font size as desired */
+    color: #ff4500; /* Set a color for the text */
+    margin: 0 auto; /* Centers the block element */
+  }
+  
+
+  

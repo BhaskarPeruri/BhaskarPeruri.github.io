@@ -5,21 +5,27 @@ title: About
 
 ## Profile
 
-Welcome to my profile, My self Satya Bhaskar currently pursuing Final year Computer Science Engineering in RGUKT-Nuzvid.
+Welcome to my profile.<br>
+My self Satya Bhaskar, currently working as a Web3 Security Researcher at [QuillAI Network](https://x.com/QuillAI_Network)
 
-I aim to leverage my expertise in engineering and programming to contribute to organizational growth while continuously expanding my knowledge through exploration and innovation.
 
-## Education
-
-- Bachelor of Technology in Computer Science from Rajiv Gandhi University of Knowledge and Technologies with a  CGPA of 8.7 (upto 3rd year).
-
-- Pre-University Course from Rajiv Gandhi University of Knowledge and Technologies with a CGPA of 9.3.
-
-- Secondary Education from Zilla Parishad High School with a CGPA of 10.
 
 ## Experience:
 
-#### Blockchain Developer Intern at [Kryptomerch](https://kryptomerch.io/) (Feb 2024 - March 2024):
+#### Web3 Security Researcher at  [QuillAI Network](https://x.com/QuillAI_Network)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  (Aug 2024 -  Present)
+
+- Analysing  a major DeFi hack monthly, covering the attack vector, exploited vulnerabilities, and impact. 
+
+- Preparing a case study with preventive measures, presenting findings and new audit checkpoints at tech team meetings.
+
+- Auditing the smart contracts.
+
+- Developing AIAgents to secure Web3.
+
+
+
+
+#### Blockchain Developer Intern at  [Kryptomerch](https://kryptomerch.io/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (Feb 2024 - March 2024)
 
 - Maintained stability and functionality of KryptoMerch’s NFT launchpad, marketplace, and merchandising protocol.
 
@@ -27,27 +33,24 @@ I aim to leverage my expertise in engineering and programming to contribute to o
 
 - Collaborated with cross-functional teams to support project objectives.
 
-#### CTF Player (Nov 2023 - Present):
+#### CTF Player &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Nov 2023 - Present)
 
 - Developed strong problem-solving skills by analyzing complex blockchain systems and mitigating vulnerabilities.
 
 * Demonstrated the ability to think critically and creatively to overcome challenges inherent in blockchain security.
 
+## Education
+
+- B.Tech in Computer Science from IIIT Nuzvid, AP, India with a  CGPA of 8.8 .
+
+
+
 ## Projects:
 
 - Developed various decentralized applications including a Decentralized Autonomous Organization, Decentralized Wallet, Decentralized Voting System, Twitter Clone, and Decentralized Marketplace.
 
-- Demonstrated proficiency in **Solidity, JavaScript, Reactjs, Foundry, Hardhat, Web3.js, Ether.js, Hardhat, HTML, and CSS** through these projects.
+- Developed good knowledge in **Solidity, JavaScript, Reactjs, Foundry, Hardhat, Web3.js, Ether.js, Hardhat, HTML, and CSS** through these projects.
 
-## Achievements:
-
-- Secured 32<span style="vertical-align:super">nd</span> position in the DApp World Solidity contest.
-
-- Demonstrated proficiency in analyzing cryptographic systems and vulnerabilities.
-
-- Gained expertise in writing secure, efficient, and robust smart contracts using Solidity.
-
-- Successfully completed courses and gained certifications in NFTs deployment, CryptoZombies-Solidity, Solidity Basics, and Blockchain Fundamentals.
 
 ## Extra & Co-Curricular Activities:
 
@@ -55,4 +58,4 @@ I aim to leverage my expertise in engineering and programming to contribute to o
 
 - Engage in reading audit reports, writeups, and blogs related to blockchain security.
 
-#### With a proven track record in blockchain development, a strong academic background, and a dedication to continuous learning, I am primed to excel in a challenging role within the blockchain industry.
+

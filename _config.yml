@@ -1,12 +1,30 @@
 title: Satya Bhaskar
 author: Satya Bhaskar
 url: https://BhaskarPeruri.github.io # root address of the site
-description: > # description of  you  (multiple lines allowed)
- As a highly motivated individual with a robust background in computer science, blockchain development, and security, I have made significant contributions to various projects, including decentralized applications and smart contracts. 
- During my tenure as a Blockchain Developer Intern at KryptoMerch, I refined my skills in languages such as Solidity, React.js, JavaScript, and Pact. 
- I played a crucial role in maintaining the stability and security of NFT protocols.
- Additionally, I actively participate in smart contract auditing contests and web3 Capture the Flag (CTF) challenges, which has sharpened my skills in identifying and addressing security issues in blockchain technology.
- My passion for innovation and commitment to excellence drive me to continuously seek out new challenges and make meaningful contributions in the ever-evolving field of blockchain technology.
+description: >
+  Hi Mate, this is <strong>Satya Bhaskar</strong>.<br><br>
+
+  <strong>I am a:</strong><br><br>
+
+  - <strong>Web3 Security Researcher</strong>
+    <ul>
+      <li>Blockchain Vulnerability Analysis</li>
+      <li>DeFi Hacks Exploration</li>
+      <li>Smart Contract Auditing</li>
+      <li>Building AIAgents </li>
+    </ul>
+
+  - <strong>Blockchain Developer</strong>
+    <ul>
+      <li>Decentralized Applications</li>
+      <li>NFT Protocols</li>
+      <li>Smart Contracts</li>
+    </ul>
+
+  - <strong>Web3 CTF Player</strong><br><br>
+
+  - <strong>Like to decode the Programming Stuff</strong>
+
 permalink: /:slug
 favicon: "./logo.png" # relative path to site's favicon
 
