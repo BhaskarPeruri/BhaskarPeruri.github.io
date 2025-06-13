@@ -1,124 +1,33 @@
 navbar_entries:
-  - title: "<i class='fas fa-user'></i> About"
-    url: about
+ 
 
-  - title: "<i class='fas fa-pencil-alt'></i> Blog"
+  - title: " <i class='fas fa-feather-alt'></i> Blog"
     url: blog
-  
-  - title: "<i class='fab fa-twitter'></i> Twitter"
-    url: https://x.com/0xPSB
+
+
+  - title: "<i class='fas fa-folder-open'></i> Projects"
+    url: projects
+
+
 
   - title: "<i class='fab fa-github'></i> GitHub"
     url: https://github.com/BhaskarPeruri
 
+  - title: "<i class='fab fa-medium'></i> Medium"
+    url:  https://medium.com/@satyabhaskarperuri
+
+ 
+
   - title: "<i class='fab fa-linkedin'></i> LinkedIn"
     url: https://www.linkedin.com/in/satya-bhaskar-b84521242
 
-  # - title: Twitter
-  #   url: https://x.com/0xPSB
+  - title: "<i class='fab fa-twitter'></i> Twitter"
+    url: https://x.com/0xPSB
 
-  # - title: Github
-  #   url: https://github.com/BhaskarPeruri
 
-  # - title: Linkedin
-  #   url: https://www.linkedin.com/in/satya-bhaskar-b84521242/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
-project_entries:
-  - title: DAO dapp
-    url: https://github.com/BhaskarPeruri/DAO_DApp
-    desc: Implemented functionalities for investor contributions, share management,the creation and execution of proposals through a voting mechanism.
-    highlight: new
-
-  - title: Decentralized Wallet
-    url: https://github.com/BhaskarPeruri/Decentralized-Wallet
-    desc: DWallet serves as a decentralized wallet designed for the secure transfer of Ethereum (ETH) from one address to another address.
-    highlight: new
-
-  - title: ERC20 Fuzzing
-    url: https://github.com/BhaskarPeruri/ERC20Fuzzing
-    desc: Demonstrated in utilizing fuzzing techniques to test ERC20 smart contracts for vulnerabilities and bugs.
-    highlight: new
-
-  - title: Smart Contract Voting
-    url: https://github.com/BhaskarPeruri/Smart-Contract-Voting-Project
-    desc: It  comprises an Election Commissioner who oversees the conduct of free and fair elections, candidates who participate in the election, and eligible Voters.
-
-  - title: Twitter Clone
-    url: https://github.com/BhaskarPeruri/TwitterContract
-    desc: The contract includes access control checks, ensuring that only authorized users or operators can perform certain actions.
-
-  - title: Decentralized Market Place
-    url: https://github.com/BhaskarPeruri/Decentralized_MarketPlace
-    desc: allows buyers and sellers of securities to deal directly with each other instead of meeting in a traditional exchange.
-
-  - title: Auction Smart Contract
-    url: https://github.com/BhaskarPeruri/Auction_SmartContract
-    desc: This solidity smart contract represents a basic auction where an auctioneer can create items, and participants can place bids on those items.
-
-# old_project_entries:
-#   - title: Soopr
-#     url: https://www.soopr.co
-#     desc: Delight your readers - add beautiful share and like buttons easily to your websites
-#     highlight: NEW
-
-#   - title: Cookie
-#     url: https://github.com/abhinavs/cookie
-#     desc: An open source landing website with supporting pages and integrated blog
-
-#   - title: Moonwalk
-#     url: https://github.com/abhinavs/moonwalk
-#     desc: A fast and minimalist Jekyll blog theme with clean dark mode
-
-#   - title: Humangous
-#     url: https://www.humangous.co
-#     desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: "<span class='footer-thank-you'>Thank You ❤️</span>"
+  - title: "<span class='footer-thank-you'>Thank You </span>"
     url: false
-  # - title: Bhaskar's homepage
-  #   url: https://bhaskarperuri.github.io/
-
-  # - title: Twitter
-  #   url: https://x.com/0xPSB
-
-  # - title: Github
-  #   url: https://github.com/BhaskarPeruri
-
-  # - title: Linkedin
-  #   url: https://www.linkedin.com/in/satya-bhaskar-b84521242?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-
-#   - title: Feed
-#     url: feed.xml
-
-# misc_entries:
-#   - title: this is an example vertical list
-#     url: false
-
-#   - title: you can show or hide using a boolean flag in _config.yml
-#     url: false
-
-#   - title: and you can add data in _data/home.yml
-#     url: false
-
-#   - title: Blog posts
-#     post_list: true
-#     url: false
-
-#   - title: moonwalk on the Internet
-#     url: false
-#     entries:
-#       - title: on Github
-#         url: https://github.com/abhinavs/moonwalk
-
-#       - title: originally built for abhinav's homepage
-#         url: https://www.old.co
-
-#       - title: this list is scalable and can be nested
-#         url: false
-#         entries:
-#           - title: this is nested inside a nested list
-#             url: false
-
-#           - title: it is easy to use, see _data/home.yml to see how to configure it.
-#             url: false
+ 
