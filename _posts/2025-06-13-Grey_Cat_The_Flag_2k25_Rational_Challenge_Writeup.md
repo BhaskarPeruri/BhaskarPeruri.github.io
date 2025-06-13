@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GCC CTF 2025 Rational Challenge Writeup "
+title: "Grey Cat The Flag 2025 Rational Challenge Writeup "
 ---
 
 
@@ -459,6 +459,10 @@ contract RationalSolution is Test {
 }
 
 ```
+## Solutions Repo
+
+[Grey Cat The Flag 2025 Solutions](https://github.com/BhaskarPeruri/Grey_Cat_The_Flag_2025_Solutions)
+
 
 ## Conclusion
 
