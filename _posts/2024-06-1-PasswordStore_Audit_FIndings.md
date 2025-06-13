@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PasswordStore Protocol Audit"
+title: "PasswordStore Protocol Audit Report"
 ---
 
 

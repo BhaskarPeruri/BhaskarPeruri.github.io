@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ethernaut CTF using Foundry"
+title: "Ethernaut CTF Challenges Writeups"
 ---
 
 

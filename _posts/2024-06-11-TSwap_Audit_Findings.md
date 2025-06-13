@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TSwap Protocol Audit"
+title: "TSwap Protocol Audit Report"
 ---
 
 # Protocol Summary 

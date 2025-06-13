@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PuppyRaffle Protocol Audit "
+title: "PuppyRaffle Protocol Audit Report "
 ---
 
 # Protocol Summary 

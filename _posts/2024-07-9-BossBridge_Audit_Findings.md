@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BossBridge Protocol Audit "
+title: "BossBridge Protocol Audit Report"
 ---
 
 # Protocol Summary

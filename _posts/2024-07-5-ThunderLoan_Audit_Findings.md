@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ThunderLoan Protocol Audit "
+title: "ThunderLoan Protocol Audit Report"
 ---
 
 # Protocol Summary 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Grey Cat The Flag 2025 Rational Challenge Writeup "
+title: "Grey Cat The Flag 2025 Rational Challenge Writeup Report"
 ---
 
 
