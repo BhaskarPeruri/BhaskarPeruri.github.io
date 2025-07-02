@@ -3,7 +3,7 @@ author: Satya Bhaskar Peruri
 url: https://BhaskarPeruri.github.io # root address of the site
 description: |
 
-  <strong>Web3 Security Researcher at QuillAudits (Aug 2024 – Present) </strong> <br>
+  <strong>Web3 Security Researcher at QuillAudits (Aug 2024 – June 2025) </strong> <br>
   - Audits smart contracts across EVM chains (Ethereum, BSC, etc.)<br>
   - Analyzes real-world exploits to enhance audit strategies<br>
   - Performs fuzz testing using Echidna and Foundry<br>
@@ -17,7 +17,6 @@ description: |
   <strong>Web3 CTF Player (Nov 2023 – Present)</strong><br>
   - Actively participates in blockchain CTFs and auditing contests<br>
   - Applies analytical thinking to identify and mitigate vulnerabilities in complex smart contracts<br>
-
 
 permalink: /:slug
 favicon: "./logo.png" # relative path to site's favicon
@@ -48,9 +47,8 @@ theme_config:
   # options for "home" page
   home:
     # title_projects: Projects
-    
-    # title_blog: Blog
 
+    # title_blog: Blog
 
 soopr:
   publish_token: "" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options
