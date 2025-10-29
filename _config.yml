@@ -3,13 +3,19 @@ author: Satya Bhaskar Peruri
 url: https://BhaskarPeruri.github.io # root address of the site
 description: |
 
-  <strong>Web3 Security Researcher at QuillAudits (Aug 2024 – June 2025) </strong> <br>
+  <strong>Blockchain Developer at <a href="https://www.ryzer.app/">Ryzer</a> (Aug 2025 - Present) </strong><br>
+  - Design, develop, and deploy Solidity smart contracts implementing ERC3643 (RWA tokenization) and ERC4337 (Account Abstraction/Smart Accounts) standards.<br>
+  - Use Hardhat and Foundry for development, unit, integration, fuzz, and invariant testing, ensuring security and robustness of smart contracts.<br>
+  - Conduct gas optimizations and implement secure design patterns to reduce vulnerabilities and improve scalability.<br>
+  - Collaborate with frontend/backend teams to integrate smart contracts with dApps using Ethers.js <br> <br>
+
+  <strong>Web3 Security Researcher at <a href="https://www.quillaudits.com/">QuillAudits</a> (Aug 2024 – June 2025) </strong> <br>
   - Audited smart contracts across EVM chains (Ethereum, BSC, etc.)<br>
   - Analyzed real-world exploits to enhance audit strategies<br>
   - Performed fuzz testing using Echidna and Foundry<br>
   - Contributed to the development of the QuillShield AI vulnerability detection tool<br><br>
 
-  <strong>Blockchain Developer Intern at KryptoMerch (Feb 2024 – Mar 2024)</strong><br>
+  <strong>Blockchain Developer Intern at <a href="https://www.linkedin.com/company/kryptomerch-io/">KryptoMerch</a> (Feb 2024 – Mar 2024)</strong><br>
   - Helped maintain the NFT launchpad and marketplace<br>
   - Participated in testing, deployment, and debugging of smart contracts<br>
   - Collaborated with cross-functional teams to meet project goals<br><br>

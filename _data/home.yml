@@ -1,33 +1,22 @@
 navbar_entries:
- 
-
   - title: " <i class='fas fa-feather-alt'></i> Blog"
     url: blog
 
-
   - title: "<i class='fas fa-folder-open'></i> Projects"
     url: projects
-
-
 
   - title: "<i class='fab fa-github'></i> GitHub"
     url: https://github.com/BhaskarPeruri
 
   - title: "<i class='fab fa-medium'></i> Medium"
-    url:  https://medium.com/@satyabhaskarperuri
-
- 
+    url: https://medium.com/@satyabhaskarperuri
 
   - title: "<i class='fab fa-linkedin'></i> LinkedIn"
-    url: https://www.linkedin.com/in/satya-bhaskar-b84521242
+    url: https://www.linkedin.com/in/satya-bhaskar-peruri-b84521242/
 
   - title: "<i class='fab fa-twitter'></i> Twitter"
     url: https://x.com/0xPSB
 
-
-
-
 footer_entries:
   - title: "<span class='footer-thank-you'>Thank You </span>"
     url: false
- 
